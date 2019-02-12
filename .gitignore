@@ -1,0 +1,9 @@
+/.idea
+routers/commentsRouter_controllers.go
+/swagger
+lastupdate.tmp
+beego_jwt_mysql.exe
+beego_jwt_mysql.exe~
+swagger.zip
+keys/private.txt
+keys/public.txt
