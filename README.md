@@ -36,7 +36,7 @@ Use [Postman](https://getpostman.com) or any other tool that you're comfortable 
   * Email: mehran.ab80@gmail.com
   * Github: https://github.com/mehranabi
 
-LISENCE: MIT
+LICENSE: MIT
 
 You can use this project for any purpose.
 
