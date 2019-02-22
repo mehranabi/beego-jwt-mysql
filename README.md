@@ -8,11 +8,11 @@ You should first install Golang and register `GOPATH` in your *System Environmen
 Then install _Beego_ and _Bee Tool_, read more in https://beego.me/quickstart
 
 You need to install some pakcages that are used in this project, install them with: (I imagine that you've installed **Beego** & **Bee Tool**)
- - `go get github.com/astaxie/beego/orm` (_Beego ORM Helper_)
- - `go get github.com/go-sql-driver/mysql` (_MySQL Driver for Golang_)
- - `go get golang.org/x/crypto/bcrypt` (_Bcrypt helper to hash passwords_)
- - `go get github.com/gbrlsnchs/jwt` (_JWT Helper_)
- - `go get github.com/SermoDigital/jose` (_also JWT Helper **but I just used rsa keys loader from that**_)
+ - `go get -u github.com/astaxie/beego/orm` (_Beego ORM Helper_)
+ - `go get -u github.com/go-sql-driver/mysql` (_MySQL Driver for Golang_)
+ - `go get -u golang.org/x/crypto/bcrypt` (_Bcrypt helper to hash passwords_)
+ - `go get -u github.com/gbrlsnchs/jwt` (_JWT Helper_)
+ - `go get -u github.com/SermoDigital/jose` (_also JWT Helper **but I just used rsa keys loader from that**_)
 
 After preparing your environment, clone this repository in `%GOPATH%\src\beego_jwt_mysql`.
 
